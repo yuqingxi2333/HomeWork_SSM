@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yqx_ssm/yqx_dao/yqx_dao.iml" filepath="$PROJECT_DIR$/yqx_ssm/yqx_dao/yqx_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqx_ssm/yqx_pojo/yqx_pojo.iml" filepath="$PROJECT_DIR$/yqx_ssm/yqx_pojo/yqx_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqx_ssm/yqx_service/yqx_service.iml" filepath="$PROJECT_DIR$/yqx_ssm/yqx_service/yqx_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqx_ssm/yqx_ssm.iml" filepath="$PROJECT_DIR$/yqx_ssm/yqx_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqx_ssm/yqx_utils/yqx_utils.iml" filepath="$PROJECT_DIR$/yqx_ssm/yqx_utils/yqx_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqx_ssm/yqx_web/yqx_web.iml" filepath="$PROJECT_DIR$/yqx_ssm/yqx_web/yqx_web.iml" />
+    </modules>
+  </component>
+</project>
